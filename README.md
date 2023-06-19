@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA,PYTHON**
 
-- 🤝 I’m looking for help with **R-T Discord Bot**
+- 🤝 I’m looking for help with **R-T Discord Bot** *and* **Music Player Application**
 
 - 📫 How to reach me **mohdjariullah@gmail.com**
 
