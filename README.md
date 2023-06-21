@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **R-T Discord Bot** *and* **Music Player Application**
 
-- 📫 How to reach me **mohdjariullah@gmail.com**
+- 📫 How to reach me **mohdjariullah@gmail.com** 
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
