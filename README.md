@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jariuallah Sami </h1>
-<p align="left"> <a href="https://twitter.com/@jariullah_sami" target="blank"><img src="https://img.shields.io/twitter/follow/jariullah_sami?logo=twitter&style=for-the-badge" alt="@jariullah_sami" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mohdjariullah" target="blank"><img src="https://img.shields.io/twitter/follow/jariullah_sami?logo=twitter&style=for-the-badge" alt="@Mohdjariullah" /></a> </p>
 
 - 🔭 I’m currently working in **PixlBuilders™**
 
 - 🌱 I’m currently learning **JAVA,PYTHON**
 
-- 🤝 I’m looking for help with **R-T Discord Bot** *and* **Music Player Application**
+- 🤝 I’m looking for help with **Alislam Discord Bot** *and* **Music Player Application**
 
 - 📫 How to reach me **mohdjariullah@gmail.com** 
 
