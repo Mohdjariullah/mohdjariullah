@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jariuallah Sami </h1>
-<p align="left"> <a href="https://twitter.com/@mohdjariullah" target="blank"><img src="https://img.shields.io/twitter/follow/jariullah_sami?logo=twitter&style=for-the-badge" alt="@Mohdjariullah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mohdjariullah" target="blank"><img src="https://img.shields.io/twitter/follow/Mohdjariullah?logo=twitter&style=for-the-badge" alt="@Mohdjariullah" /></a> </p>
 
 - 🔭 I’m currently working in **PixlBuilders™**
 
