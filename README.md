@@ -1,4 +1,4 @@
-## Hi there 👋 <img align="right" src="https://raw.githubusercontent.com/Mohdjariullah/mohdjariullah/blob/main/explocion-mind-blown.mp4" width="200" />
+## Hi there 👋 <img align="right" src="" width="200" />
 I'm **Mohd Jariullah**, A developer from somewhere on the earth. I like to code web applications and games. I have worked on many projects in the past.
   
 Thanks for visiting my GitHub profile. Have a great day ahead!~
