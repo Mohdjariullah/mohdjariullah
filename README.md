@@ -26,7 +26,7 @@ const Mohdjariullah = {
 </p>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/@jariullah_sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jariullah_sami" height="30" width="40" /></a>
+<a href="https://twitter.com/@mohdjariullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohdjariullah" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/58MHpVdh2H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/58MHpVdh2H" height="30" width="40" /></a>
 </p>
 <details>
