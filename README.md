@@ -5,6 +5,8 @@ Thanks for visiting my GitHub profile. Have a great day ahead!~
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/890323443252351046?theme=dark&bg=809ecf&animated=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/890323443252351046)
+
 ```js
 const Mohdjariullah = {
     FavouriteLanguage: "Python",
