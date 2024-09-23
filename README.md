@@ -15,9 +15,9 @@ const Mohdjariullah = {
     TotalCommits: 12367,
     Stars: 1703,
     Repositories: {
-       Created: 25,
+       Created: 53,
     },
-}; //I'm a Epic Object, UwU
+}; //I'm a Epic Object
 ```
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
