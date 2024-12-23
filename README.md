@@ -9,13 +9,13 @@ Thanks for visiting my GitHub profile. Have a great day ahead!~
 
 ```js
 const Mohdjariullah = {
-    FavouriteLanguage: "Python",
+    FavouriteLanguage: "Python, JavaScript",
     OpenedIssues: 3,
-    OpenedPullRequests: 2,
-    TotalCommits: 12367,
+    OpenedPullRequests: 8,
+    TotalCommits: 26367,
     Stars: 1703,
     Repositories: {
-       Created: 53,
+       Created: 58,
     },
 }; //I'm a Epic Object
 ```
