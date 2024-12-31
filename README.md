@@ -1,5 +1,5 @@
 ## Hi there 👋 <img align="right" src="" width="200" />
-I'm **Mohd Jariullah**, A developer from somewhere on the earth. I like to code web applications and games. I have worked on many projects in the past.
+I'm **Jariullah**, A developer from somewhere on the earth. I like to code web applications and games. I have worked on many projects in the past.
   
 Thanks for visiting my GitHub profile. Have a great day ahead!~
   
@@ -42,5 +42,5 @@ const Mohdjariullah = {
   
 </details>
   
-<!-- Last updated on Thu Aug 31 2023 06:16:49 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 31th August 2023 using magic</i> ✨ 
+<!-- Last updated on Tue Dec 31 2024 06:16:49 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 31th December 2024 using magic</i> ✨ 
