@@ -19,6 +19,9 @@ const Mohdjariullah = {
     },
 }; //I'm a Epic Object
 ```
+
+  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7f85b2cec8a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
