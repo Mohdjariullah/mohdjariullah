@@ -1,0 +1,28 @@
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: mohdjariullah
+
+      - name: Update Repos Count
+        run: |
+          REPO_COUNT=$(curl -s https://api.github.com/users/mohdjariullah | jq '.public_repos')
+          sed -i "s/{{ REPOSITORIES }}/$REPO_COUNT/" README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "🔄 Auto update stats"
+          git push
