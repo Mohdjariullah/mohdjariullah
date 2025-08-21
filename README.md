@@ -28,12 +28,12 @@ const Mohdjariullah = {
     "Newsletter System with Next.js + Redis + Discord Bot",
   ],
   repositories: {
-    created: {{ REPOSITORIES }}, // auto-updated
+    created: {{ REPOSITORIES }},
   },
   funFact: "I turn boring manual tasks into smart automated systems 🤖",
-}; // I'm an Epic Object
+};
 
-
+```
 ---
 
 🚀 My Skills
