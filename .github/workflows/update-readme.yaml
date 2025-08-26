@@ -21,7 +21,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/<!-- REPO_COUNT -->[0-9]\+<!-- \/REPO_COUNT -->/<!-- REPO_COUNT -->$COUNT<!-- \/REPO_COUNT -->/" README.md
+          sed -i "s/\(created: \)[0-9]\+/\1$COUNT/" README.md
 
       - name: Commit & Push
         run: |
