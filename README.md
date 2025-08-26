@@ -93,3 +93,4 @@ DevOps & Tools: GitHub Actions, DigitalOcean, Redis, Docker, Airtable
 ---
 
 <i>Last updated on 21st August 2025 with ✨ AI Magic ✨</i>
+<img align="center" src="https://komarev.com/ghpvc/?username=mohdjariullah&style=flat-square&color=blue" alt="Profile Count">
