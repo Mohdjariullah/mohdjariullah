@@ -2,12 +2,15 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs once a day
+    - cron: "0 0 * * *" # once a day
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 🔑 allow pushing commits
+
     steps:
       - uses: actions/checkout@v4
 
@@ -22,8 +25,10 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 Update repo count to $COUNT"
+          git commit -m "🔄 Update repo count to $COUNT" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
