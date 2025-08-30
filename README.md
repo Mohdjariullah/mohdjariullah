@@ -22,9 +22,6 @@ const Mohdjariullah = {
   tools: ["React", "Next.js", "Redux", "Spring Boot", "Three.js"],
   automation: ["n8n", "Zapier", "Make", "GHL", "ClickUp API"],
   aiProjects: [
-    "2D → 3D CAD AI Converter",
-    "AI for OCT & Visual Field Analysis",
-    "Smart Automation for 3D Printing Studio",
     "Newsletter System with Next.js + Redis + Discord Bot",
   ],
   repositories: {
@@ -66,8 +63,8 @@ DevOps & Tools: GitHub Actions, DigitalOcean, Redis, Docker, Airtable
 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/mohdjariullah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/58MHpVdh2H" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<a href="https://x.com/0xjariullah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/58MHpVdh2H" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 ---
 
