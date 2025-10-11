@@ -25,7 +25,7 @@ const Mohdjariullah = {
     "Newsletter System with Next.js + Redis + Discord Bot",
   ],
   repositories: {
-    created: 64, // 🔄 auto-updated
+    created: null, // 🔄 auto-updated
 },
   funFact: "I turn boring manual tasks into smart automated systems 🤖",
 };
